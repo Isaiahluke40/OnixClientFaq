@@ -1,6 +1,6 @@
 <head>
 <meta name="author" content= "Isaiahluke40">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://github.com/Isaiahluke40/OnixClientFaq/blob/main/favicon-32x32.png">
 </head>
 
 # [![Onix Client Logo](https://raw.githubusercontent.com/HugoNotHere/OnixClientFaq/main/onixlogosmall.png)](https://discord.gg/OnixClient) Onix Client FAQ
