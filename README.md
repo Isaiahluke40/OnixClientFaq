@@ -1,7 +1,9 @@
 <html>
 <head>
-<link rel="icon" type="image.png" href="https://raw.githubusercontent.com/HugoNotHere/OnixClientFaq/main/onixlogosmall.png">
-<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/HugoNotHere/OnixClientFaq/main/onixlogosmall.png" />
+<title>Onix FAQ</title>
+<meta charset="UTF-8">
+<meta name="author" content= "Isaiahluke40">
+<link rel="icon" type="image.png" href="https://raw.githubusercontent.com/HugoNotHere/OnixClientFaq/main/onixlogosmall.png" />
 </head>
 </html>
 
