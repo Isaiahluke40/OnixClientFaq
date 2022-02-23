@@ -1,6 +1,8 @@
 <html>
+<head>
 <link rel="icon" type="image.png" href="https://raw.githubusercontent.com/HugoNotHere/OnixClientFaq/main/onixlogosmall.png">
 <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/HugoNotHere/OnixClientFaq/main/onixlogosmall.png" />
+</head>
 </html>
 
 # [![Onix Client Logo](https://raw.githubusercontent.com/HugoNotHere/OnixClientFaq/main/onixlogosmall.png)](https://discord.gg/OnixClient) Onix Client FAQ
